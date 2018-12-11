@@ -10,7 +10,7 @@ For this assignment, you are supposed to build a **user profile page**.
 At Movinga, our frontend stack consists of [React](https://facebook.github.io/react/docs/hello-world.html) + [Redux](http://redux.js.org/), therefore it's required that the same stack is used in this assignment.
 
 ### Firebase
-Firebase is also a part of our stack for some projects, hence we require that some features of Firebase are used in this assignment. There is a free-plan (default) that supports the requirements of this assignment (Hosting, Auth and real-time Database) and you should be able to start creating a project with your own Google account.
+Firebase is also a part of our stack for some projects, hence we require that some features of Firebase are used in this assignment. There is a free-plan (default) that supports the requirements of this assignment (Auth and real-time Database) and you should be able to start creating a project with **your own Google account**.
 
 ### Must have
 - [ ] Sign-in/Sign-out functionality using [Firebase Auth](https://firebase.google.com/docs/auth/);
@@ -33,7 +33,7 @@ Firebase is also a part of our stack for some projects, hence we require that so
 ## Instructions
 On git platform of your choice (github, gitlab, bitbucket, etc) and copy this README into it. Feel free to edit it but it should contain must-have functionalities and stack.
 
-**After you finished, you can share the repository URL with us. **
+**After you finished, you can share the repository URL with us.**
 
 ## Review
 
