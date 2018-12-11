@@ -15,7 +15,7 @@ Firebase is also a part of our stack for some projects, hence we require that so
 ### Must have
 - [ ] Sign-in/Sign-out functionality using [Firebase Auth](https://firebase.google.com/docs/auth/);
 - [ ] Use **[Random User Generator](https://randomuser.me/)** and **Redux** to keep all the user data;
-- [ ] Assign priority to a TO-DO and sort them by **highest to lowest priority**;
+- [ ] Display as much information about user as you can (name, email, birthday, address, etc);
 - [ ] Tests (Unit and/or Acceptance);
 - [ ] Work on Chrome.
 
@@ -27,7 +27,7 @@ Firebase is also a part of our stack for some projects, hence we require that so
 ## Hints
 * You don't need to spend time creating a dev/build environment, using [react-create-app](https://github.com/facebookincubator/create-react-app) (and other alike tools) is totally ok!
 * Never done anything with Firebase? You can follow [this guide](https://firebase.google.com/docs/web/setup) and it should give you a nice starting point.
-* To find documentation and all necessary information about Randomuser, head here (https://randomuser.me/documentation#intro)
+* To find documentation and all necessary information about Randomuser, head [here](https://randomuser.me/documentation#intro)
 * You can use [Material-ui](https://github.com/callemall/material-ui) or any other of your choice, it has great integration with React environments.
 
 ## Instructions
